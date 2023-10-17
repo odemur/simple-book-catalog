@@ -1,4 +1,4 @@
-# simple-book-catalog
+# Simple Book Catalog
 Simple Book Catalog created in MongoDB, Express, React and Node.js (MERN).
 
 ## Getting Started
