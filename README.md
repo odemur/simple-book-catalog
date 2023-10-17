@@ -14,6 +14,8 @@ And clone this repo:
     git clone https://github.com/odemur/simple-book-catalog.git
 ```
 
+Then go to "backend" directory: 
+
 ```bash
     cd simple-book-catalog/backend 
 ```
@@ -23,7 +25,7 @@ And run:
 ### `npm install`
 ### `npm start`
 
-Then go to frontend directory: 
+Then go to "frontend" directory: 
 
 ```bash
     cd ../frontend 
@@ -36,5 +38,5 @@ And run:
 ### `npm run dev`
 
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
